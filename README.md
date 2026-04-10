@@ -56,7 +56,7 @@ Covers multiple dimensions: channel, audience, campaign type, and location
 
 Total Spend, Clicks, Impressions
 
-CTR (%), Conversion Rate (%), Avg ROI
+CTR (%), Avg ROI
 
 ROI Trend Over Time
 
