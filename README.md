@@ -102,12 +102,14 @@ The store should plan its biggest campaigns and new product launches around thes
 ## Dashboard
 
 ### Page 1 — Business Performance
-![Page 1](page_1.png)
+<img width="1285" height="727" alt="Page_1" src="https://github.com/user-attachments/assets/1eeccc99-9a00-42cc-baf7-94036692b343" />
+
 
 Revenue totals, monthly trend (peak + decline visible), category breakdown, age group, payment method split.
 
 ### Page 2 — Customer Intelligence
-![Page 2](page_2.png)
+<img width="1299" height="724" alt="Page_2" src="https://github.com/user-attachments/assets/dd78a2a2-9b3d-4bfd-91d0-c3a60e9cd30a" />
+
 
 Repeat rate, CLV, country revenue, customer segments, top customers table, and recommendations.
 
